@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tsezar</string>
+    <string name="Labeltext">Введите шифр</string>
+    <string name="Clicked">Вывести варианты шифра</string>
+    <string name="Input">Введите открытое слово</string>
+    <string name="Wait">Нажмите кнопку решения</string>
+    <string name="NotText">Нет открытого слова</string>
+    <string name="Cipher">цъчыюьрънахмхфнехюнэтютх</string>
+</resources>
